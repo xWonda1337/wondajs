@@ -1,5 +1,9 @@
 <h2 align="center">Merhaba Dostum 👋</h2>
 <br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/389168690899320842)](https://discord.com/users/389168690899320842)
+
+
+
 <img src="https://komarev.com/ghpvc/?username=wondajs&color=blue"/>
 
 
