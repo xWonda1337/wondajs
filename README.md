@@ -1,4 +1,4 @@
-<h2 align="center">Merhaba Dostum 👋</h2>
+<h2 align="center">Hello👋</h2>
 <br>
 
 
@@ -20,7 +20,7 @@ class wonda {
         this.type = "human",
         this.sex = "man",
         this.weight = "86",
-        this.age = "19"
+        this.age = "18"
     };
 }
 
